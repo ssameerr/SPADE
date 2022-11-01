@@ -3,3 +3,4 @@ torchvision
 dominate>=2.3.1
 dill
 scikit-image
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
